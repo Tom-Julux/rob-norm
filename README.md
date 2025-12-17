@@ -1,4 +1,4 @@
-# rob_norm 🦭🧬
+# rob-norm 🦭🧬
 
 Python implementation of the [RobNorm](https://github.com/mwgrassgreen/) R package for robust normalization of quantitative omics data. 
 
@@ -12,7 +12,7 @@ Python implementation of the [RobNorm](https://github.com/mwgrassgreen/) R packa
 Install via pip:
 
 ```bash
-pip install rob_norm
+pip install rob-norm
 ```
 
 ## Usage
