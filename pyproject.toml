@@ -1,6 +1,6 @@
 [project]
 name = "rob-norm"
-version = "1.0.0"
+version = "1.0.1"
 description = "Python implementation of RobNorm, a robust normalization method for labeled quantitative proteomics data."
 readme = "README.md"
 authors = [
